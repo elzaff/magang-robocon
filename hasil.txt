@@ -1,0 +1,4 @@
+Kecepatan roda 1 : 4
+Kecepatan roda 2 : -4
+Kecepatan roda 3 : -4
+Kecepatan roda 4 : 4
