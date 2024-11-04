@@ -1,0 +1,39 @@
+[3.157s] Invoking command in '/home/user/turtlesim_ws/src/turtle_controller': PYTHONPATH=/home/user/turtlesim_ws/build/turtle_controller/prefix_override:/home/user/turtlesim_ws/install/turtle_controller/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtle_controller build --build-base /home/user/turtlesim_ws/build/turtle_controller/build install --record /home/user/turtlesim_ws/build/turtle_controller/install.log --single-version-externally-managed install_data
+[3.503s] running egg_info
+[3.504s] creating ../../build/turtle_controller/turtle_controller.egg-info
+[3.504s] writing ../../build/turtle_controller/turtle_controller.egg-info/PKG-INFO
+[3.504s] writing dependency_links to ../../build/turtle_controller/turtle_controller.egg-info/dependency_links.txt
+[3.504s] writing entry points to ../../build/turtle_controller/turtle_controller.egg-info/entry_points.txt
+[3.504s] writing requirements to ../../build/turtle_controller/turtle_controller.egg-info/requires.txt
+[3.505s] writing top-level names to ../../build/turtle_controller/turtle_controller.egg-info/top_level.txt
+[3.505s] writing manifest file '../../build/turtle_controller/turtle_controller.egg-info/SOURCES.txt'
+[3.506s] reading manifest file '../../build/turtle_controller/turtle_controller.egg-info/SOURCES.txt'
+[3.507s] writing manifest file '../../build/turtle_controller/turtle_controller.egg-info/SOURCES.txt'
+[3.507s] running build
+[3.507s] running build_py
+[3.508s] creating /home/user/turtlesim_ws/build/turtle_controller/build
+[3.508s] creating /home/user/turtlesim_ws/build/turtle_controller/build/lib
+[3.508s] creating /home/user/turtlesim_ws/build/turtle_controller/build/lib/turtle_controller
+[3.508s] copying turtle_controller/turtle_move.py -> /home/user/turtlesim_ws/build/turtle_controller/build/lib/turtle_controller
+[3.508s] copying turtle_controller/__init__.py -> /home/user/turtlesim_ws/build/turtle_controller/build/lib/turtle_controller
+[3.508s] copying turtle_controller/setup.py -> /home/user/turtlesim_ws/build/turtle_controller/build/lib/turtle_controller
+[3.509s] running install
+[3.509s] running install_lib
+[3.509s] creating /home/user/turtlesim_ws/install/turtle_controller/lib/python3.10/site-packages/turtle_controller
+[3.510s] copying /home/user/turtlesim_ws/build/turtle_controller/build/lib/turtle_controller/turtle_move.py -> /home/user/turtlesim_ws/install/turtle_controller/lib/python3.10/site-packages/turtle_controller
+[3.510s] copying /home/user/turtlesim_ws/build/turtle_controller/build/lib/turtle_controller/__init__.py -> /home/user/turtlesim_ws/install/turtle_controller/lib/python3.10/site-packages/turtle_controller
+[3.510s] copying /home/user/turtlesim_ws/build/turtle_controller/build/lib/turtle_controller/setup.py -> /home/user/turtlesim_ws/install/turtle_controller/lib/python3.10/site-packages/turtle_controller
+[3.510s] byte-compiling /home/user/turtlesim_ws/install/turtle_controller/lib/python3.10/site-packages/turtle_controller/turtle_move.py to turtle_move.cpython-310.pyc
+[3.511s] byte-compiling /home/user/turtlesim_ws/install/turtle_controller/lib/python3.10/site-packages/turtle_controller/__init__.py to __init__.cpython-310.pyc
+[3.511s] byte-compiling /home/user/turtlesim_ws/install/turtle_controller/lib/python3.10/site-packages/turtle_controller/setup.py to setup.cpython-310.pyc
+[3.512s] running install_data
+[3.512s] creating /home/user/turtlesim_ws/install/turtle_controller/share/ament_index
+[3.512s] creating /home/user/turtlesim_ws/install/turtle_controller/share/ament_index/resource_index
+[3.512s] creating /home/user/turtlesim_ws/install/turtle_controller/share/ament_index/resource_index/packages
+[3.512s] copying resource/turtle_controller -> /home/user/turtlesim_ws/install/turtle_controller/share/ament_index/resource_index/packages
+[3.512s] copying package.xml -> /home/user/turtlesim_ws/install/turtle_controller/share/turtle_controller
+[3.513s] running install_egg_info
+[3.516s] Copying ../../build/turtle_controller/turtle_controller.egg-info to /home/user/turtlesim_ws/install/turtle_controller/lib/python3.10/site-packages/turtle_controller-0.0.0-py3.10.egg-info
+[3.517s] running install_scripts
+[3.544s] writing list of installed files to '/home/user/turtlesim_ws/build/turtle_controller/install.log'
+[3.572s] Invoked command in '/home/user/turtlesim_ws/src/turtle_controller' returned '0': PYTHONPATH=/home/user/turtlesim_ws/build/turtle_controller/prefix_override:/home/user/turtlesim_ws/install/turtle_controller/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtle_controller build --build-base /home/user/turtlesim_ws/build/turtle_controller/build install --record /home/user/turtlesim_ws/build/turtle_controller/install.log --single-version-externally-managed install_data
